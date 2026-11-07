@@ -1,21 +1,10 @@
 # CME 295: Transformers & LLMs - Lecture 1 Notes
 
-## 📚 Course Overview
-
-**Instructors:** Afshine and Shervine (twin brothers)
-* Both attended Centrale Paris (France), then grad school in the US (Afshine at MIT, Shervine at Stanford ICME)
-* Industry experience: Uber → Google → Netflix
-* Teaching this class since 2021; became an official Stanford class last year
 
 **Course Goals:**
 * Understand how LLMs work
 * Learn the transformer architecture
 * Understand training methods, capabilities, and limitations
-
-**Target Audience:**
-* Aspiring research scientists
-* People doing personal projects with coding agents
-* Anyone needing AI literacy (increasingly important in all roles)
 
 **Prerequisites:**
 * Linear algebra basics (matrices, multiplication)
@@ -287,5 +276,3 @@ No recurrence! Just attention + feedforward networks.
 4. **Transformers** = stacked encoder/decoder blocks with attention + feedforward layers.
 5. Training tricks (residuals, layer norm, dropout, label smoothing) make it work.
 6. The field is rapidly evolving; this is just the foundation!
-
-> *Next lecture: More on positional encodings and training details.*
