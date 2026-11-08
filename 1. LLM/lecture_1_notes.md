@@ -1,5 +1,4 @@
-# CME 295: Transformers & LLMs - Lecture 1 Notes
-
+# Transformers & LLMs - Lecture 1
 
 **Course Goals:**
 * Understand how LLMs work
